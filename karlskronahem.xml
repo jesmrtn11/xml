@@ -1,0 +1,24 @@
+<ArrayOfRentalObject xmlns:xsd="http://www.w3.org/2ØØ1/XMLSchema" xmlns:xsi="http://www.w3.org/2ØØ1/XMLSchema-instance" xmlns="http://www.karlskromahem.se">
+  <RentalObject>
+    <Id>1636.A.3322</Id>
+    <Address>Gyllenstjärnas Väg 15</Address>
+    <ZipCode>371 40</ZipCode>
+    <City>KARLSKRONA</City>
+    <Area>Galgamarken</Area>
+    <Cost>5965</Cost>
+    <ObjectGroup>1</ObjectGroup>
+    <Size>64</Size>
+    <NoOfRooms>2</NoOfRooms>
+    <Floor>4</Floor>
+    <Description>Lorem ipsum dolor sit amet.</Description>
+    <MoveInDate>2017-10-01</MoveInDate>
+    <PublishedToDate>2017-09-03</PublishedToDate>
+    <AvailableDate>2017-10-01</AvailableDate>
+    <HasElevator>true</HasElevator>
+    <HasBalcony>false</HasBalcony>
+    <ImageUrl>
+      http://core.vitec.net/karlskronahem/portal/Global/DisplayMultimedia.ashx?guid=621083c3-ade6-4644-80b9-c52ca3bfccc4
+    </ImageUrl>
+    <NoOfApplicants>0</NoOfApplicants>
+  </RentalObject>
+</ArrayOfRentalObject>

@@ -1,4 +1,4 @@
-<ArrayOfRentalObject xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.karlskromahem.se">
+<ArrayOfRentalObject xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.karlskronahem.se">
   <RentalObject>
     <Id>1636.A.3322</Id>
     <Address>Gyllenstjärnas Väg 15</Address>

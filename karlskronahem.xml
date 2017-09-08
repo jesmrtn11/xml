@@ -87,4 +87,50 @@
     </ImageUrl>
     <NoOfApplicants>2</NoOfApplicants>
   </RentalObject>
+  </RentalObject>
+    <RentalObject>
+    <Id>1456.A.1992</Id>
+    <Address>Nordenskjöldsgatan 9C</Address>
+    <ZipCode>371 36</ZipCode>
+    <City>KARLSKRONA</City>
+    <Area>Björkholmen</Area>
+    <Cost>5980</Cost>
+    <ObjectGroup>1</ObjectGroup>
+    <Size>51</Size>
+    <NoOfRooms>3</NoOfRooms>
+    <Floor>6</Floor>
+    <Description>Lorem ipsum ament, pretium ut lacinia in, elementum id enim. Quisque velit nisi, pretium ut lacinia in, elementum id enim. Nulla porttitor accumsan tincidunt. Vivamus magna justo, lacinia eget consectetur sed, convallis at tellus. Vestibulum ac diam sit amet quam vehicula elementum sed sit amet dui. Curabitur non nulla sit amet nisl tempus convallis quis ac lectus. </Description>
+    <MoveInDate>2017-11-11</MoveInDate>
+    <PublishedToDate>2017-09-04</PublishedToDate>
+    <AvailableDate>2017-11-01</AvailableDate>
+    <HasElevator>false</HasElevator>
+    <HasBalcony>true</HasBalcony>
+    <ImageUrl>
+      http://core.vitec.net/karlskronahem/portal/Global/DisplayMultimedia.ashx?guid=621083c3-ade6-4644-80b9-c52ca3bfccc4
+    </ImageUrl>
+    <NoOfApplicants>2</NoOfApplicants>
+  </RentalObject>
+  </RentalObject>
+    <RentalObject>
+    <Id>2001.C.3592</Id>
+    <Address>Valhallavägen 4A</Address>
+    <ZipCode>371 40</ZipCode>
+    <City>KARLSKRONA</City>
+    <Area>Galgamerken</Area>
+    <Cost>5100</Cost>
+    <ObjectGroup>1</ObjectGroup>
+    <Size>45</Size>
+    <NoOfRooms>3</NoOfRooms>
+    <Floor>3</Floor>
+    <Description>Velit lorem ipsum alntrepo pretium ut lacinia in, elementum id enim. Quisque velit nisi, pretium ut lacinia in, elementum id enim. Nulla porttitor accumsan tincidunt. Vivamus magna justo, lacinia eget consectetur sed, convallis at tellus. Vestibulum ac diam sit amet quam vehicula elementum sed sit amet dui. Curabitur non nulla sit amet nisl tempus convallis quis ac lectus. </Description>
+    <MoveInDate>2017-12-01</MoveInDate>
+    <PublishedToDate>2017-09-01</PublishedToDate>
+    <AvailableDate>2017-12-01</AvailableDate>
+    <HasElevator>true</HasElevator>
+    <HasBalcony>true</HasBalcony>
+    <ImageUrl>
+      http://core.vitec.net/karlskronahem/portal/Global/DisplayMultimedia.ashx?guid=621083c3-ade6-4644-80b9-c52ca3bfccc4
+    </ImageUrl>
+    <NoOfApplicants>5</NoOfApplicants>
+  </RentalObject>
 </ArrayOfRentalObject>

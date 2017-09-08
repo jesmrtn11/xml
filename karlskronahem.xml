@@ -10,7 +10,7 @@
     <Size>64</Size>
     <NoOfRooms>2</NoOfRooms>
     <Floor>4</Floor>
-    <Description>Lorem ipsum dolor sit amet.</Description>
+    <Description>Cras ultricies ligula sed magna dictum porta. Curabitur aliquet quam id dui posuere blandit. Curabitur aliquet quam id dui posuere blandit. Nulla porttitor accumsan tincidunt. Sed porttitor lectus nibh. Curabitur non nulla sit amet nisl tempus convallis quis ac lectus. </Description>
     <MoveInDate>2017-10-01</MoveInDate>
     <PublishedToDate>2017-09-03</PublishedToDate>
     <AvailableDate>2017-10-01</AvailableDate>
@@ -32,7 +32,51 @@
     <Size>73</Size>
     <NoOfRooms>3</NoOfRooms>
     <Floor>2</Floor>
-    <Description>Lorem ipsum dolor sit amet lorem.</Description>
+    <Description>Curabitur arcu erat, accumsan id imperdiet et, porttitor at sem. Curabitur non nulla sit amet nisl tempus convallis quis ac lectus. Cras ultricies ligula sed magna dictum porta. Donec rutrum congue leo eget malesuada. Praesent sapien massa, convallis a pellentesque nec, egestas non nisi.</Description>
+    <MoveInDate>2017-11-11</MoveInDate>
+    <PublishedToDate>2017-09-04</PublishedToDate>
+    <AvailableDate>2017-11-01</AvailableDate>
+    <HasElevator>false</HasElevator>
+    <HasBalcony>true</HasBalcony>
+    <ImageUrl>
+      http://core.vitec.net/karlskronahem/portal/Global/DisplayMultimedia.ashx?guid=621083c3-ade6-4644-80b9-c52ca3bfccc4
+    </ImageUrl>
+    <NoOfApplicants>2</NoOfApplicants>
+  </RentalObject>
+    <RentalObject>
+    <Id>2980.D.3580</Id>
+    <Address>Servicevägen 5</Address>
+    <ZipCode>373 37</ZipCode>
+    <City>KARLSKRONA</City>
+    <Area>Holmsjö</Area>
+    <Cost>7100</Cost>
+    <ObjectGroup>1</ObjectGroup>
+    <Size>69</Size>
+    <NoOfRooms>2</NoOfRooms>
+    <Floor>7</Floor>
+    <Description>Cras ultricies ligula sed magna dictum porta. Curabitur aliquet quam id dui posuere blandit. Cras ultricies ligula sed magna dictum porta. Sed porttitor lectus nibh. Vivamus suscipit tortor eget felis porttitor volutpat. Sed porttitor lectus nibh.</Description>
+    <MoveInDate>2017-10-01</MoveInDate>
+    <PublishedToDate>2017-09-01</PublishedToDate>
+    <AvailableDate>2017-10-01</AvailableDate>
+    <HasElevator>true</HasElevator>
+    <HasBalcony>true</HasBalcony>
+    <ImageUrl>
+      http://core.vitec.net/karlskronahem/portal/Global/DisplayMultimedia.ashx?guid=621083c3-ade6-4644-80b9-c52ca3bfccc4
+    </ImageUrl>
+    <NoOfApplicants>1</NoOfApplicants>
+  </RentalObject>
+    <RentalObject>
+    <Id>2001.C.3592</Id>
+    <Address>Södra Bellevuevägen 1</Address>
+    <ZipCode>371 61</ZipCode>
+    <City>KARLSKRONA</City>
+    <Area>Lyckeby</Area>
+    <Cost>6850</Cost>
+    <ObjectGroup>1</ObjectGroup>
+    <Size>73</Size>
+    <NoOfRooms>3</NoOfRooms>
+    <Floor>2</Floor>
+    <Description>Quisque velit nisi, pretium ut lacinia in, elementum id enim. Quisque velit nisi, pretium ut lacinia in, elementum id enim. Nulla porttitor accumsan tincidunt. Vivamus magna justo, lacinia eget consectetur sed, convallis at tellus. Vestibulum ac diam sit amet quam vehicula elementum sed sit amet dui. Curabitur non nulla sit amet nisl tempus convallis quis ac lectus. </Description>
     <MoveInDate>2017-11-11</MoveInDate>
     <PublishedToDate>2017-09-04</PublishedToDate>
     <AvailableDate>2017-11-01</AvailableDate>

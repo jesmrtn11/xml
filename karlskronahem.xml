@@ -43,7 +43,7 @@
     </ImageUrl>
     <NoOfApplicants>2</NoOfApplicants>
   </RentalObject>
-    <RentalObject>
+  <RentalObject>
     <Id>2980.D.3580</Id>
     <Address>Servicevägen 5</Address>
     <ZipCode>373 37</ZipCode>
@@ -65,7 +65,7 @@
     </ImageUrl>
     <NoOfApplicants>1</NoOfApplicants>
   </RentalObject>
-    <RentalObject>
+  <RentalObject>
     <Id>2001.C.3592</Id>
     <Address>Södra Bellevuevägen 1</Address>
     <ZipCode>371 61</ZipCode>
@@ -87,8 +87,7 @@
     </ImageUrl>
     <NoOfApplicants>2</NoOfApplicants>
   </RentalObject>
-  </RentalObject>
-    <RentalObject>
+  <RentalObject>
     <Id>1456.A.1992</Id>
     <Address>Nordenskjöldsgatan 9C</Address>
     <ZipCode>371 36</ZipCode>
@@ -110,8 +109,7 @@
     </ImageUrl>
     <NoOfApplicants>2</NoOfApplicants>
   </RentalObject>
-  </RentalObject>
-    <RentalObject>
+  <RentalObject>
     <Id>2001.C.3592</Id>
     <Address>Valhallavägen 4A</Address>
     <ZipCode>371 40</ZipCode>

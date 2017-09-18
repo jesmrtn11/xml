@@ -1,134 +1,194 @@
-<ArrayOfRentalObject xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.karlskronahem.se">
-  <RentalObject>
-    <Id>1636.A.3322</Id>
-    <Address>Gyllenstjärnas Väg 15</Address>
-    <ZipCode>371 40</ZipCode>
-    <City>KARLSKRONA</City>
-    <Area>Galgamarken</Area>
-    <Cost>5965</Cost>
-    <ObjectGroup>1</ObjectGroup>
-    <Size>64</Size>
-    <NoOfRooms>2</NoOfRooms>
-    <Floor>4</Floor>
-    <Description>Cras ultricies ligula sed magna dictum porta. Curabitur aliquet quam id dui posuere blandit. Curabitur aliquet quam id dui posuere blandit. Nulla porttitor accumsan tincidunt. Sed porttitor lectus nibh. Curabitur non nulla sit amet nisl tempus convallis quis ac lectus. </Description>
-    <MoveInDate>2017-10-01</MoveInDate>
-    <PublishedToDate>2017-09-03</PublishedToDate>
-    <AvailableDate>2017-10-01</AvailableDate>
-    <HasElevator>true</HasElevator>
-    <HasBalcony>false</HasBalcony>
-    <ImageUrl>
-      http://core.vitec.net/karlskronahem/portal/Global/DisplayMultimedia.ashx?guid=621083c3-ade6-4644-80b9-c52ca3bfccc4
-    </ImageUrl>
-    <NoOfApplicants>0</NoOfApplicants>
-  </RentalObject>
-  <RentalObject>
-    <Id>2001.C.3592</Id>
-    <Address>Mariedalsväg 12</Address>
-    <ZipCode>373 75</ZipCode>
-    <City>KARLSKRONA</City>
-    <Area>Galgamarken</Area>
-    <Cost>7600</Cost>
-    <ObjectGroup>1</ObjectGroup>
-    <Size>73</Size>
-    <NoOfRooms>3</NoOfRooms>
-    <Floor>2</Floor>
-    <Description>Curabitur arcu erat, accumsan id imperdiet et, porttitor at sem. Curabitur non nulla sit amet nisl tempus convallis quis ac lectus. Cras ultricies ligula sed magna dictum porta. Donec rutrum congue leo eget malesuada. Praesent sapien massa, convallis a pellentesque nec, egestas non nisi.</Description>
-    <MoveInDate>2017-11-11</MoveInDate>
-    <PublishedToDate>2017-09-04</PublishedToDate>
-    <AvailableDate>2017-11-01</AvailableDate>
-    <HasElevator>false</HasElevator>
-    <HasBalcony>true</HasBalcony>
-    <ImageUrl>
-      http://core.vitec.net/karlskronahem/portal/Global/DisplayMultimedia.ashx?guid=621083c3-ade6-4644-80b9-c52ca3bfccc4
-    </ImageUrl>
-    <NoOfApplicants>2</NoOfApplicants>
-  </RentalObject>
-  <RentalObject>
-    <Id>2980.D.3580</Id>
-    <Address>Servicevägen 5</Address>
-    <ZipCode>373 37</ZipCode>
-    <City>KARLSKRONA</City>
-    <Area>Holmsjö</Area>
-    <Cost>7100</Cost>
-    <ObjectGroup>1</ObjectGroup>
-    <Size>69</Size>
-    <NoOfRooms>2</NoOfRooms>
-    <Floor>7</Floor>
-    <Description>Cras ultricies ligula sed magna dictum porta. Curabitur aliquet quam id dui posuere blandit. Cras ultricies ligula sed magna dictum porta. Sed porttitor lectus nibh. Vivamus suscipit tortor eget felis porttitor volutpat. Sed porttitor lectus nibh.</Description>
-    <MoveInDate>2017-10-01</MoveInDate>
-    <PublishedToDate>2017-09-01</PublishedToDate>
-    <AvailableDate>2017-10-01</AvailableDate>
-    <HasElevator>true</HasElevator>
-    <HasBalcony>true</HasBalcony>
-    <ImageUrl>
-      http://core.vitec.net/karlskronahem/portal/Global/DisplayMultimedia.ashx?guid=621083c3-ade6-4644-80b9-c52ca3bfccc4
-    </ImageUrl>
-    <NoOfApplicants>1</NoOfApplicants>
-  </RentalObject>
-  <RentalObject>
-    <Id>2001.C.3592</Id>
-    <Address>Södra Bellevuevägen 1</Address>
-    <ZipCode>371 61</ZipCode>
-    <City>KARLSKRONA</City>
-    <Area>Lyckeby</Area>
-    <Cost>6850</Cost>
-    <ObjectGroup>1</ObjectGroup>
-    <Size>73</Size>
-    <NoOfRooms>3</NoOfRooms>
-    <Floor>2</Floor>
-    <Description>Quisque velit nisi, pretium ut lacinia in, elementum id enim. Quisque velit nisi, pretium ut lacinia in, elementum id enim. Nulla porttitor accumsan tincidunt. Vivamus magna justo, lacinia eget consectetur sed, convallis at tellus. Vestibulum ac diam sit amet quam vehicula elementum sed sit amet dui. Curabitur non nulla sit amet nisl tempus convallis quis ac lectus. </Description>
-    <MoveInDate>2017-11-11</MoveInDate>
-    <PublishedToDate>2017-09-04</PublishedToDate>
-    <AvailableDate>2017-11-01</AvailableDate>
-    <HasElevator>false</HasElevator>
-    <HasBalcony>true</HasBalcony>
-    <ImageUrl>
-      http://core.vitec.net/karlskronahem/portal/Global/DisplayMultimedia.ashx?guid=621083c3-ade6-4644-80b9-c52ca3bfccc4
-    </ImageUrl>
-    <NoOfApplicants>2</NoOfApplicants>
-  </RentalObject>
-  <RentalObject>
-    <Id>1456.A.1992</Id>
-    <Address>Nordenskjöldsgatan 9C</Address>
-    <ZipCode>371 36</ZipCode>
-    <City>KARLSKRONA</City>
-    <Area>Björkholmen</Area>
-    <Cost>5980</Cost>
-    <ObjectGroup>1</ObjectGroup>
-    <Size>51</Size>
-    <NoOfRooms>3</NoOfRooms>
-    <Floor>6</Floor>
-    <Description>Lorem ipsum ament, pretium ut lacinia in, elementum id enim. Quisque velit nisi, pretium ut lacinia in, elementum id enim. Nulla porttitor accumsan tincidunt. Vivamus magna justo, lacinia eget consectetur sed, convallis at tellus. Vestibulum ac diam sit amet quam vehicula elementum sed sit amet dui. Curabitur non nulla sit amet nisl tempus convallis quis ac lectus. </Description>
-    <MoveInDate>2017-11-11</MoveInDate>
-    <PublishedToDate>2017-09-04</PublishedToDate>
-    <AvailableDate>2017-11-01</AvailableDate>
-    <HasElevator>false</HasElevator>
-    <HasBalcony>true</HasBalcony>
-    <ImageUrl>
-      http://core.vitec.net/karlskronahem/portal/Global/DisplayMultimedia.ashx?guid=621083c3-ade6-4644-80b9-c52ca3bfccc4
-    </ImageUrl>
-    <NoOfApplicants>2</NoOfApplicants>
-  </RentalObject>
-  <RentalObject>
-    <Id>2001.C.3592</Id>
-    <Address>Valhallavägen 4A</Address>
-    <ZipCode>371 40</ZipCode>
-    <City>KARLSKRONA</City>
-    <Area>Galgamerken</Area>
-    <Cost>5100</Cost>
-    <ObjectGroup>1</ObjectGroup>
-    <Size>45</Size>
-    <NoOfRooms>3</NoOfRooms>
-    <Floor>3</Floor>
-    <Description>Velit lorem ipsum alntrepo pretium ut lacinia in, elementum id enim. Quisque velit nisi, pretium ut lacinia in, elementum id enim. Nulla porttitor accumsan tincidunt. Vivamus magna justo, lacinia eget consectetur sed, convallis at tellus. Vestibulum ac diam sit amet quam vehicula elementum sed sit amet dui. Curabitur non nulla sit amet nisl tempus convallis quis ac lectus. </Description>
-    <MoveInDate>2017-12-01</MoveInDate>
-    <PublishedToDate>2017-09-01</PublishedToDate>
-    <AvailableDate>2017-12-01</AvailableDate>
-    <HasElevator>true</HasElevator>
-    <HasBalcony>true</HasBalcony>
-    <ImageUrl>
-      http://core.vitec.net/karlskronahem/portal/Global/DisplayMultimedia.ashx?guid=621083c3-ade6-4644-80b9-c52ca3bfccc4
-    </ImageUrl>
-    <NoOfApplicants>5</NoOfApplicants>
-  </RentalObject>
+﻿<ArrayOfRentalObject xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.karlskronahem.se">
+<RentalObject>
+<Id>1301.A.0002</Id>
+<Address>Fregattgatan 6</Address>
+<ZipCode>371 36</ZipCode>
+<City>KARLSKRONA</City>
+<Area>Björkholmen</Area>
+<Cost>3185</Cost>
+<ObjectGroup>1</ObjectGroup>
+<Size>28</Size>
+<NoOfRooms>1</NoOfRooms>
+<Floor>0</Floor>
+<Description>
+På charmiga Björkholmen finns mycket bevarat från det gamla Karlskrona. Typiskt för stadsdelen är de många små trästugor som förr i tiden beboddes av varvsarbetarna. Stugorna sätter en pittoresk och färgglad prägel på den kuperade ön, som är förbunden med centrumön Trossö. Läget är centralt men ändå lite avskilt. På Björkholmen har Karlskronahem 61 lägenheter, många av dem med havsutsikt.
+</Description>
+<MoveInDate>2017-11-01</MoveInDate>
+<PublishedToDate>2017-09-30</PublishedToDate>
+<AvailableDate>2017-08-15</AvailableDate>
+<HasElevator>false</HasElevator>
+<HasBalcony>false</HasBalcony>
+<NoOfApplicants>129</NoOfApplicants>
+</RentalObject>
+<RentalObject>
+<Id>1401.A.0011</Id>
+<Address>Saltövägen 3 A</Address>
+<ZipCode>371 37</ZipCode>
+<City>KARLSKRONA</City>
+<Area>Saltö</Area>
+<Cost>7368</Cost>
+<ObjectGroup>1</ObjectGroup>
+<Size>76</Size>
+<NoOfRooms>3</NoOfRooms>
+<Floor>4</Floor>
+<Description>
+Saltö är ett av Karlskronas vackraste bostadsområde. Bebyggelsen präglas av smala gator med stora trävillor, och vart du än bor har du nära till havet. Här finns en av stans bästa badplatser med sandstrand, klippbad, och hopptorn. Samtidigt som du bor lugnt och avskilt promenerar du, via bron över Saltö sund, till centrum på tio minuter. Precis bredvid Saltö ligger Dragsö med Karlskrona Segelsällskap och den populära Dragsö camping. Ett stenkast bort ligger det välkända koloniområdet Brändaholm, med sina pittoreska röda stugor. Saltö har egen skola, förskola, jourbutik samt en charmig liten fiskerestaurang. Karlskronahem har cirka 170 lägenheter på Saltö. Avstånd till Karlskrona centrum: 2 km
+</Description>
+<MoveInDate>2017-10-01</MoveInDate>
+<PublishedToDate>2017-09-30</PublishedToDate>
+<AvailableDate>2017-10-01</AvailableDate>
+<HasElevator>true</HasElevator>
+<HasBalcony>true</HasBalcony>
+<NoOfApplicants>395</NoOfApplicants>
+</RentalObject>
+<RentalObject>
+<Id>1501.A.0014</Id>
+<Address>Östergatan 2</Address>
+<ZipCode>371 39</ZipCode>
+<City>KARLSKRONA</City>
+<Area>Pantarholmen</Area>
+<Cost>4690</Cost>
+<ObjectGroup>1</ObjectGroup>
+<Size>46</Size>
+<NoOfRooms>2</NoOfRooms>
+<Floor>2</Floor>
+<Description>
+På den lilla ön Pantarholmen strax norr om Trossö, är det nära till allt. Det tar bara tio minuter att promenera till city eller järnvägstationen och nästan alla bussar går via Pantarholmen in till stadskärnan. Stadsbebyggelsen är genuin och följer den gamla landsvägen som löper rakt över krönet på den lilla holmen. Serviceutbudet är rikt och charmigt småskaligt. Inget av Karlskronahems hus ligger mer än 100 meter från havet och här finns både båt- och badplatser. Karlskronahem har här sju bostadsfastigheter med totalt 204 lägenheter samt parkeringshus. Avstånd till centrum: 1,5 km
+</Description>
+<MoveInDate>2017-10-01</MoveInDate>
+<PublishedToDate>2017-09-30</PublishedToDate>
+<AvailableDate>2017-10-01</AvailableDate>
+<HasElevator>true</HasElevator>
+<HasBalcony>false</HasBalcony>
+<NoOfApplicants>177</NoOfApplicants>
+</RentalObject>
+<RentalObject>
+<Id>1606.A.0022</Id>
+<Address>Gyllenstjärnas Väg 15</Address>
+<ZipCode>371 40</ZipCode>
+<City>KARLSKRONA</City>
+<Area>Galgamarken</Area>
+<Cost>5965</Cost>
+<ObjectGroup>1</ObjectGroup>
+<Size>64</Size>
+<NoOfRooms>2</NoOfRooms>
+<Floor>4</Floor>
+<Description>
+Galgamarken ligger vackert beläget på en höjd och många av fastigheterna har havsutsikt. Bostadsområdet är varierat och Karlskronhem erbjuder både tvåvånings-suterränghus med egen uteplats och höghus med fantastisk utsikt. Granne till Galgamarken ligger Campus Gräsvik med Blekinge Tekniska Högskola, Telenor och flera expansiva företag. Det är nära till Studentvikens långrunda badplats och idrottsplatsen Västra Mark med härliga promenadstigar och elljusspår. Från Galgamarken finns fina cykel- och gångbanor samt täta bussförbindelser med Karlskrona centrum. Tågresenärer kan ta Kustpilen mot Malmö/Köpenhamn från den närbelägna hållplatsen Bergåsa. På bekvämt gångavstånd finns också service så som dagis, skolor, vårdcentral, sjukhus, post och affärer. Karlskronahem har 318 lägenheter att välja mellan i 14 olika fastigheter, varav några är reserverade för studentboende. Avstånd till centrum: 2 km
+</Description>
+<MoveInDate>2017-10-01</MoveInDate>
+<PublishedToDate>2017-09-30</PublishedToDate>
+<AvailableDate>2017-10-01</AvailableDate>
+<HasElevator>true</HasElevator>
+<HasBalcony>false</HasBalcony>
+<ImageUrl>
+http://core.vitec.net/karlskronahem/portal/Global/DisplayMultimedia.ashx?guid=621083c3-ade6-4644-80b9-c52ca3bfccc4
+</ImageUrl>
+<NoOfApplicants>0</NoOfApplicants>
+</RentalObject>
+<RentalObject>
+<Id>2100.H.1215</Id>
+<Address>Gullbernavägen 1 D</Address>
+<ZipCode>371 43</ZipCode>
+<City>KARLSKRONA</City>
+<Area>Marieberg</Area>
+<Cost>3837</Cost>
+<ObjectGroup>1</ObjectGroup>
+<Size>39</Size>
+<NoOfRooms>1</NoOfRooms>
+<Floor>2</Floor>
+<Description>
+Marieberg ligger vackert på en höjd intill Sunna kanal. Området är lugnt och grönt och många av lägenheterna har utsikt över havet. I Marieberg har du nära till både Karlskrona centrum och till köpcentret Amiralen i Lyckeby. Ett trevligt inslag, och populär bland hyresgästerna, är dansbana under tak med grillplats för sköna sommarkvällar. I området har Karlskronahem ett tiotal fastigheter och samtliga genomgick en större renovering på 1990-talet där både kök, badrum, tapeter och golv rustades upp. Även trapphus, tvättstugor och fasader inkluderades i renoveringen. De flesta husen fick också hiss. Det har även gjorts en stor satsning på solenergi i området och flera av husen har solpaneler. I området finns affär, gatukök och Karlskronahems hyregäster har tillgång till en bastu. Avstånd till Karlskrona centrum: ca 5 km
+</Description>
+<MoveInDate>2017-10-01</MoveInDate>
+<PublishedToDate>2017-09-30</PublishedToDate>
+<AvailableDate>2017-10-01</AvailableDate>
+<HasElevator>false</HasElevator>
+<HasBalcony>false</HasBalcony>
+<NoOfApplicants>229</NoOfApplicants>
+</RentalObject>
+<RentalObject>
+<Id>2300.A2.0202</Id>
+<Address>Kungsmarksvägen 25 A</Address>
+<ZipCode>371 44</ZipCode>
+<City>KARLSKRONA</City>
+<Area>Kungsmarken</Area>
+<Cost>6393</Cost>
+<ObjectGroup>1</ObjectGroup>
+<Size>86</Size>
+<NoOfRooms>3</NoOfRooms>
+<Floor>2</Floor>
+<Description>
+Med en fantastisk utsikt över Karlskronas vackra omgivningar reser sig stadsdelen Kungsmarken. Bostäderna ligger i två slingrande huslängor och har välplanerade och rymliga lägenheter. På de gröna och bilfria innegårdarna finns gott om plats för lek och här ligger också den uppskattade konstgräsplanen Kulan. Ett antal mindre butiker, närbutiker och kiosker finns i området och för ett större shoppingutbud ligger Kungsmarken bra till, mittemellan Karlskrona centrum och köpcentret Amiralen i Lyckeby. Kungsmarken har kommunal skola med klasser från förskola till nionde klass, Montessoriskola och internationell skola. Här finns också vårdcentral, tandläkare och äldreboendet Kungshöjden. I området finns ett flertal studentlägenheter. Avstånd till centrum: 6 km
+</Description>
+<MoveInDate>2017-10-01</MoveInDate>
+<PublishedToDate>2017-09-30</PublishedToDate>
+<AvailableDate>2017-10-01</AvailableDate>
+<HasElevator>true</HasElevator>
+<HasBalcony>true</HasBalcony>
+<NoOfApplicants>84</NoOfApplicants>
+</RentalObject>
+<RentalObject>
+<Id>3110.B.0063</Id>
+<Address>Kronotorpsvägen 5 A</Address>
+<ZipCode>371 61</ZipCode>
+<City>LYCKEBY</City>
+<Area>Lyckeby</Area>
+<Cost>6210</Cost>
+<ObjectGroup>1</ObjectGroup>
+<Size>65</Size>
+<NoOfRooms>2</NoOfRooms>
+<Floor>4</Floor>
+<Description>
+Lyckeby är en charmig och modern stadsdel som ligger naturskönt vid Lyckebyån, nära strövområden och badplatser. Närservicen är väl utbyggd med skolor, äldre- och primärvård. Slottsbackens och Amiralens köpcentra ligger strax intill. Du tar dig till centrala Karlskrona med buss eller bil på 15 minuter, eller så väljer du den vackra cykelleden. I Lyckeby har Karlskronahem cirka 800 hyreslägenheter. Utbudet är varierat i stora och små bostadsområden och det är ett mycket omtyckt område, där många bor kvar länge. Avstånd till centrum: 7 km
+</Description>
+<MoveInDate>2017-11-01</MoveInDate>
+<PublishedToDate>2017-09-30</PublishedToDate>
+<AvailableDate>2017-08-31</AvailableDate>
+<HasElevator>true</HasElevator>
+<HasBalcony>true</HasBalcony>
+<NoOfApplicants>180</NoOfApplicants>
+</RentalObject>
+<RentalObject>
+<Id>3121.C.0093</Id>
+<Address>Tingsvägen 17 B</Address>
+<ZipCode>371 62</ZipCode>
+<City>LYCKEBY</City>
+<Area>Lyckeby</Area>
+<Cost>5133</Cost>
+<ObjectGroup>1</ObjectGroup>
+<Size>62</Size>
+<NoOfRooms>2</NoOfRooms>
+<Floor>0</Floor>
+<Description>
+Lyckeby är en charmig och modern stadsdel som ligger naturskönt vid Lyckebyån, nära strövområden och badplatser. Närservicen är väl utbyggd med skolor, äldre- och primärvård. Slottsbackens och Amiralens köpcentra ligger strax intill. Du tar dig till centrala Karlskrona med buss eller bil på 15 minuter, eller så väljer du den vackra cykelleden. I Lyckeby har Karlskronahem cirka 800 hyreslägenheter. Utbudet är varierat i stora och små bostadsområden och det är ett mycket omtyckt område, där många bor kvar länge. Avstånd till centrum: 7 km
+</Description>
+<MoveInDate>2017-11-01</MoveInDate>
+<PublishedToDate>2017-09-30</PublishedToDate>
+<AvailableDate>2017-11-01</AvailableDate>
+<HasElevator>true</HasElevator>
+<HasBalcony>true</HasBalcony>
+<NoOfApplicants>92</NoOfApplicants>
+</RentalObject>
+<RentalObject>
+<Id>4610.A.0017</Id>
+<Address>Hallengrensvägen 4 B</Address>
+<ZipCode>373 30</ZipCode>
+<City>NÄTTRABY</City>
+<Area>Nättraby</Area>
+<Cost>3259</Cost>
+<ObjectGroup>1</ObjectGroup>
+<Size>30</Size>
+<NoOfRooms>1</NoOfRooms>
+<Floor>3</Floor>
+<Description>
+Badplatser, båtbryggor och skärgården i kombination med närheten till Karlskrona gör Nättraby till ett omtyckt område att bo i. Här finns vackra vandringsleder till världsarvet Skärva herrgård och sommartid kan du ta dig till och från Karlskrona med skärgårdsbåten Axel. Nättraby ligger drygt en mil nordväst om Karlskrona centrum och har tillgång till det mesta: postombud, bibliotek, restaurang, köpcentrum, vårdcentral och äldreboende samt fotbollsplan och elljusspår. Här finns även skola, förskola och fritids samt bra bussförbindelser och cykelvägar in till Karlskrona. Karlskronahem har 178 lägenheter i Nättraby. Avstånd till Karlskrona centrum: 12 km
+</Description>
+<MoveInDate>2017-11-01</MoveInDate>
+<PublishedToDate>2017-09-30</PublishedToDate>
+<AvailableDate>2017-11-01</AvailableDate>
+<HasElevator>false</HasElevator>
+<HasBalcony>false</HasBalcony>
+<NoOfApplicants>35</NoOfApplicants>
+</RentalObject>
 </ArrayOfRentalObject>

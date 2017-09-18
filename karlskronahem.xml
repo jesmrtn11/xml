@@ -63,30 +63,6 @@ På den lilla ön Pantarholmen strax norr om Trossö, är det nära till allt. D
 <NoOfApplicants>177</NoOfApplicants>
 </RentalObject>
 <RentalObject>
-<Id>1606.A.0022</Id>
-<Address>Gyllenstjärnas Väg 15</Address>
-<ZipCode>371 40</ZipCode>
-<City>KARLSKRONA</City>
-<Area>Galgamarken</Area>
-<Cost>5965</Cost>
-<ObjectGroup>1</ObjectGroup>
-<Size>64</Size>
-<NoOfRooms>2</NoOfRooms>
-<Floor>4</Floor>
-<Description>
-Galgamarken ligger vackert beläget på en höjd och många av fastigheterna har havsutsikt. Bostadsområdet är varierat och Karlskronhem erbjuder både tvåvånings-suterränghus med egen uteplats och höghus med fantastisk utsikt. Granne till Galgamarken ligger Campus Gräsvik med Blekinge Tekniska Högskola, Telenor och flera expansiva företag. Det är nära till Studentvikens långrunda badplats och idrottsplatsen Västra Mark med härliga promenadstigar och elljusspår. Från Galgamarken finns fina cykel- och gångbanor samt täta bussförbindelser med Karlskrona centrum. Tågresenärer kan ta Kustpilen mot Malmö/Köpenhamn från den närbelägna hållplatsen Bergåsa. På bekvämt gångavstånd finns också service så som dagis, skolor, vårdcentral, sjukhus, post och affärer. Karlskronahem har 318 lägenheter att välja mellan i 14 olika fastigheter, varav några är reserverade för studentboende. Avstånd till centrum: 2 km
-</Description>
-<MoveInDate>2017-10-01</MoveInDate>
-<PublishedToDate>2017-09-30</PublishedToDate>
-<AvailableDate>2017-10-01</AvailableDate>
-<HasElevator>true</HasElevator>
-<HasBalcony>false</HasBalcony>
-<ImageUrl>
-http://core.vitec.net/karlskronahem/portal/Global/DisplayMultimedia.ashx?guid=621083c3-ade6-4644-80b9-c52ca3bfccc4
-</ImageUrl>
-<NoOfApplicants>0</NoOfApplicants>
-</RentalObject>
-<RentalObject>
 <Id>2100.H.1215</Id>
 <Address>Gullbernavägen 1 D</Address>
 <ZipCode>371 43</ZipCode>
